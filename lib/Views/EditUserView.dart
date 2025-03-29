@@ -93,6 +93,8 @@ List<UsersAnimals> animalsToEdit=[] ;
     UserData.language=="ar"?"مكتب بيطري":"Vet Pharmacy",
     UserData.language=="ar"?"شركة أدوية":"Vet Drug Company",
     UserData.language=="ar"?"طبيب بيطري":"Veternarian",
+    UserData.language == "ar" ? "مهندس زراعي" : "Agricultural Engineer",
+    UserData.language == "ar" ? "فني مزرعة" : "Farm Support",
     UserData.language=="ar"?"معمل بيطري":"Vet Lab",
     UserData.language=="ar"?"مجزر دواجن":"Polutry Slaughterhouse",
     UserData.language=="ar"?"محل دواجن":"Polutry Shop",
